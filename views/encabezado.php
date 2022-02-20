@@ -15,10 +15,10 @@
 </head>
 <body>
     
-    <nav class="navbar navbar-expand-lg navbar navbar-dark" style="background-color: #000000;">
+    <nav class="navbar navbar-expand-lg navbar bg-dark" style="background-color: #000000;">
         <div class="container-fluid">
             <a class="navbar-brand" href="#"></a>
-            <img src="" alt="" width="140" height="70" class="d-inline-block align-text-top">
+            <a  href="http://localhost/desafio-practico-1/?c=admin" class="d-inline-block align-text-top bg-dark text-warning">LOG</a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav"
                 aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
@@ -27,13 +27,13 @@
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav">
                     <li class="nav-item">
-                        <a class="nav-link active" aria-current="page" href="">Incio</a>
+                        <a class="nav-link active text-warning" aria-current="page" href="">Incio</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Productos</a>
+                        <a class="nav-link text-warning" href="http://localhost/desafio-practico-1/?c=interfaz&a=Promocional">Promocionales</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="">Salir</a>
+                        <a class="nav-link text-warning" href="http://localhost/desafio-practico-1/?c=interfaz&a=Textil">Textiles</a>
                     </li>
                 </ul>
             </div>
