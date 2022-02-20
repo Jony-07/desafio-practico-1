@@ -1,0 +1,14 @@
+table.table.table-bordered.table-striped
+{color: cadetblue;
+  margin: 10px;
+  background-color: white;
+  text-align: center;
+  padding: 0.5em;}
+th,
+td {
+	padding: 15px;
+}
+
+th {
+	text-align: center;
+}
